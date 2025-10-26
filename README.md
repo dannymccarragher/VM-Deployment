@@ -145,7 +145,7 @@ http://<VM_IP>:5173
 | `docker ps`                      | List running containers                    |
 | `docker compose logs -f`         | View logs in real-time                     |
 | `docker exec -it <container> sh` | Access inside a running container         |
-| `docker system prune -a`        | Clean up unused images/containers ⚠️       |
+| `docker system prune -a`        | Clean up unused images/containers       |
 | `docker compose down`           | Stop and remove containers                |
 
 ---
